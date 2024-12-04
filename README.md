@@ -14,7 +14,7 @@ The resources folder has different files in increasing size, meaning that the fi
 ```sh
 cargo run --release -- resources/<replace-with-your-case>.txt
 # Example
-# cargo run --release -- resources/case1000.txt
+# cargo run --release -- resources/1000.txt
 ```
 
 ## Graph theory
