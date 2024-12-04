@@ -1,0 +1,6 @@
+[package]
+name = "monkey-coconut"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
